@@ -17,6 +17,6 @@ Este é um projeto para desenvolver um controle de conjuntos de itens (strings) 
 Para instalar o projeto, clone o repositório e compile os arquivos .cpp. Por exemplo:
 
 ```bash
-git clone https://github.com/AlanPrates/PI-P017.git
-cd PI-P017
+git clone https://github.com/AlanPrates/PI-P019.git
+cd PI-P019
 g++ *.cpp -o programa
