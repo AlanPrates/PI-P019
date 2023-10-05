@@ -27,7 +27,6 @@ public:
         }
     }
 
-    
     void excluir(const string& s) {
         auto it = find(items.begin(), items.end(), s);
         if (it != items.end()) {
